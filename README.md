@@ -2,7 +2,7 @@
 ## Emerging Methods for Early Detection of Forest Fires
 
 Batch Members:
-*  Mohammed Lahfir 
+*  Mohamed Lahfir 
 *  Nithyapriyaa V
 *  Pavithra Shri S
 *  Ram Yokash
