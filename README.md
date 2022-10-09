@@ -13,3 +13,7 @@
 *  [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/IDEATION%20PHASE/Literature%20Survey.pdf)
 *  [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/IDEATION%20PHASE/PROBLEM_STATEMENT.pdf)
 
+### Project Design Phase I
+*  [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%20I/Proposed%20Solution.pdf)
+*  [Problem_Solution_Fit](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%20I/Problem_Solution_Fit.pdf)
+*  [Solution Architecture]()
