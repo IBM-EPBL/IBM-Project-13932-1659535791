@@ -1,7 +1,7 @@
 # IBM-Project-13932-1659535791
 ## Emerging Methods for Early Detection of Forest Fires
 
-# Team ID: PNT2022TMID13036
+### Team ID: PNT2022TMID13036
 
 ### Batch Members:
 *  Mohamed Lahfir M S
