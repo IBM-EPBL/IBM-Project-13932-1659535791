@@ -28,4 +28,4 @@
 
 ### Project Planning
 *  [Milestone and Activity List](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20PLANNING/Milestone%20and%20Activity%20list.pdf)
-*  [Data Flow Diagrams and User Stories](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%20II/Data%20Flow%20Diagrams%20and%20User%20Stories.pdf)
+*  [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%20II/Data%20Flow%20Diagrams%20and%20User%20Stories.pdf)
