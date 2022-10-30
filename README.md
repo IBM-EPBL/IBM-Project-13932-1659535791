@@ -22,3 +22,8 @@
 
 ### Project Design Phase II
 *  [Customer Journey Map](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%20II/Customer%20Journey%20map.pdf)
+*  [Data Flow Diagrams and User Stories](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%20II/Data%20Flow%20Diagrams%20and%20User%20Stories.pdf)
+*  [Solution Requirements](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%20II/Solution%20Requirements.pdf)
+*  [Technology Stack](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%20II/Technology%20Stack.pdf)
+
+
