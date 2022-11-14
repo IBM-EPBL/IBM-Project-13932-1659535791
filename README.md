@@ -38,5 +38,4 @@
 
 ### Project Development Phase
 
-- [SPRINT 1](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/tree/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%201)
-- In this sprint we have implemented the code for importing the dataset
+- [SPRINT 1](https://github.com/IBM-EPBL/IBM-Project-13932-1659535791/tree/main/PROJECT%20DEVELOPMENT%20PHASE/SPRINT%201) - In this sprint we have implemented the code for importing the dataset
